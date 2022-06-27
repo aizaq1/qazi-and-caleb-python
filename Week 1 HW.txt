@@ -1,7 +1,11 @@
 Hello! Welcome again to learning Python! :)
 
-For this week I want you to keep some of the simple ideas we have learned in mind. Can you list out 3 examples of INTs, 3 examples of STRINGs, and 3 examples of FLOATs? 
+For this week I want you to keep some of the simple ideas we have learned in mind.
+ Can you list out 3 examples of INTs, 3 examples of STRINGs, and 3 examples of 
+ FLOATs? 
 
-In a few sentences, can you also explain why you think we might need all of these data types (by the way, there are a lot more – we have just scratched the surface!)? What might be some examples of when we use each type?
+In a few sentences, can you also explain why you think we might need all of these 
+data types (by the way, there are a lot more – we have just scratched the 
+surface!)? What might be some examples of when we use each type?
 
 See you on Monday!
