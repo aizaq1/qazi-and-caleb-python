@@ -9,3 +9,28 @@ data types (by the way, there are a lot more – we have just scratched the
 surface!)? What might be some examples of when we use each type?
 
 See you on Monday!
+
+ANSWERS
+
+INTs
+- 5
+- 1
+- -1
+
+STRINGs
+- "Hello world"
+- "Fifty thousand"
+- "Ten"
+- "Negative eight"
+- "Hi my name is Caleb"
+- "Hi, how are you?"
+
+FLOATs
+- 5.6
+- 5.5
+- -5.5
+- 3.5
+- 3.6
+- 3.7
+
+We would use different data types for different cases, depending on what the problem wants us to do. For example, INTs can be used to count. STRINGs can be used to say things. FLOATs can be used for the rating for a restaurant, for instance.
