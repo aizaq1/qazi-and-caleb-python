@@ -1,0 +1,7 @@
+1. Can you make a program that asks the person their favorite TV show? The program will then say their favorite TV show back in a nice way. For example:
+
+What is your favorite TV show? Avatar: The Last Airbender
+Nice! I like Avatar: The Last Airbender, too!
+
+
+2. Rewrite the same program above, using a formatted string (with f and {}).
